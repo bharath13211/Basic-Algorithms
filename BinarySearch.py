@@ -1,4 +1,5 @@
 class BinarySearch:
+    
     def search(self,A,key):
         start = 0
         end = len(A)-1
